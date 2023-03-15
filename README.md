@@ -25,7 +25,7 @@ Examples:"bot- <insert repo name>"
  
 Connect to a professional with a provided instant chat and video calling assistance.
 
-This Android SDK based support app connects you to a professional and provides instant chat and video calling assistance. This demo connects users with experts in various fields to help them resolve issues they may be facing. The app has a user-friendly interface, making it easy for users to find the right expert to solve their problems.
+This Webex Android SDK based support app connects you to a professional and provides instant chat and video calling assistance. This demo connects users with experts in various fields to help them resolve issues they may be facing. The app has a user-friendly interface, making it easy for users to find the right expert to solve their problems.
 
 [![Chat and Meet Support Assistant](chat-and-meet-support-assistant.PNG)](https://www.youtube.com/watch?v=nbPmM90voP0, "Chat and Meet Support Assistant")
 
