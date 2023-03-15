@@ -27,6 +27,8 @@ Connect to a professional with a provided instant chat and video calling assista
 
 This Android SDK based support app connects you to a professional and provides instant chat and video calling assistance. This demo connects users with experts in various fields to help them resolve issues they may be facing. The app has a user-friendly interface, making it easy for users to find the right expert to solve their problems.
 
+[![Chat and Meet Support Assistant](chat-and-meet-support-assistant.PNG)](https://www.youtube.com/watch?v=nbPmM90voP0, "Chat and Meet Support Assistant")
+
 <!-- Keep the following here -->  
  *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
 
